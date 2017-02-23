@@ -2,9 +2,9 @@
     "language" : "zh-hans",
     "pluginsConfig": {
         "fontsettings": {
-            "theme": 'white', // 'sepia', 'night' or 'white',
-            "family": 'msyh sans', // 'serif' or 'sans',
-            "size": 2         // 1 - 4
+            "theme": 'white',
+            "family": 'msyh sans',
+            "size": 2
         }
     },
     "pdf": {
