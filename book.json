@@ -7,7 +7,7 @@
             "size": 2
         },
         "plugins": [
-            "yahei",
+            "yahei"
         ]
     },
     "pdf": {
