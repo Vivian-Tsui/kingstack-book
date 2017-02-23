@@ -1,4 +1,4 @@
 # Kingstack用户手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是kingstack用户手册，测试中文，中文，中文标点。。““的方式东方时代发””  目录
 
