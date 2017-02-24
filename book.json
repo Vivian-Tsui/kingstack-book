@@ -3,12 +3,8 @@
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
-            "family": "msyh",
             "size": 2
-        },
-        "plugins": [
-            "yahei"
-        ]
+        }
     },
     "pdf": {
       "pageNumbers": true,
