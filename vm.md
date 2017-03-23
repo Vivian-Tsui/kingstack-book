@@ -14,16 +14,6 @@
 | Owner | √（public、private） | √（private） | √（private） | √（private） |
 | Member | √（public、private） | -- | -- | -- |
 
-
-
-
-
-
-
-
-
-
-
 主要功能列表如下：
 
 | 功能 | 说明 |
