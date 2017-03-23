@@ -8,11 +8,13 @@
 
 | 角色名称 | 查看 | 创建/复制 | 更新 | 删除 | 
 | :--- | :--- | :--- | :--- | :--- |
-| Admin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
-| Serviceadmin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
-| Maintenanceadmin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
-| Owner | √（public、private） | √（private） | √（private） | √（private） |
-| Member | √（public、private） | -- | -- | -- |
+| Admin | √（public/private） | √（public/private） | √（public/private） | √（public/private） |
+| Serviceadmin | -- | -- | -- | -- |
+| Maintenanceadmin | -- | -- | -- | -- |
+| Owner | √（public/private） | √（public/private） | √（public/private） | √（public/private） |
+| Member | √（private） | √（private） | √（private） | √（private） |
+
+以下将以Admin权限举例描述。
 
 主要功能列表如下：
 
