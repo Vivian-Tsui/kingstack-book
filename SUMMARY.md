@@ -8,4 +8,5 @@
 * [2. 快速指南](get-started.md)
 * [3. 云主机服务](vm.md)
 * [4. 物理机服务](pm.md)
+* [5. 云存储服务](storage.md)
 
