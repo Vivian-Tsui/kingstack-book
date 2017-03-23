@@ -2,9 +2,27 @@
 
 云主机是金山私有云平台提供的一种基础云计算服务，并提供对云主机的整个生命周期的管理。
 
-云主机实例是通过虚拟化方式创建出来的虚拟机资源，它拥有自己独立的操作系统，包含了CPU、内存、操作系统、磁盘、带宽等最基础的服务器组件。
+云主机实例是通过虚拟化方式创建出来的虚拟机资源，它拥有自己独立的操作系统，包含了CPU、内存、操作系统、磁盘、带宽等最基础的服务器组件。一个实例就等同于一台虚拟机，您对所创建的实例可以随时登录进行使用和管理，并可以在实例上进行基本操作，如：迁移、创建镜像、创建快照、创建监控等。
 
-一个实例就等同于一台虚拟机，您对所创建的实例可以随时登录进行使用和管理，并可以在实例上进行基本操作，如：迁移、创建镜像、创建快照、创建监控等。
+操作权限说明如下：
+
+| 角色名称 | 查看 | 创建/复制 | 更新 | 删除 | 
+| :--- | :--- | :--- | :--- | :--- |
+| Admin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
+| Serviceadmin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
+| Maintenanceadmin | √（public、private） | √（public、private） | √（public、private） | √（public、private） |
+| Owner | √（public、private） | √（private） | √（private） | √（private） |
+| Member | √（public、private） | -- | -- | -- |
+
+
+
+
+
+
+
+
+
+
 
 主要功能列表如下：
 
