@@ -10,6 +10,6 @@
 * [4. 物理机服务](pm.md)
 * [5. 云存储服务](storage.md)
 * [6.镜像服务](6jing-xiang-fu-wu.md)
-* 7.网络
+* [7.网络](7wang-luo.md)
 * [8.云安全](8yun-an-quan.md)
 
