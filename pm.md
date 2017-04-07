@@ -6,11 +6,11 @@
 
 | 角色名称 | 查看 | 创建/复制 | 更新 | 删除 | 
 | :--- | :--- | :--- | :--- | :--- |
-| Admin | √（public/private） | √（public/private） | √（public/private） | √（public/private） |
+| Admin | √ | √ | √ | √ |
 | Serviceadmin | -- | -- | -- | -- |
 | Maintenanceadmin | -- | -- | -- | -- |
-| Owner | √（public/private） | √（public/private） | √（public/private） | √（public/private） |
-| Member | √（private） | √（private） | √（private） | √（private） |
+| Owner | √ | √ | √ | √ |
+| Member | √ | √ | √ | √ |
 
 以下将以Admin权限举例描述。
 
