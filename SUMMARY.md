@@ -6,5 +6,10 @@
   * [1.2 主要概念](/overview.md#1-2)
   * [1.3 账户与权限说明](/overview.md#1-3)
 * [2. 快速指南](get-started.md)
-* [3. 云主机](vm.md)
+* [3. 云主机服务](vm.md)
+* [4. 物理机服务](pm.md)
+* [5. 云存储服务](storage.md)
+* [6.镜像服务](6jing-xiang-fu-wu.md)
+* [7.网络](7wang-luo.md)
+* [8.云安全](8yun-an-quan.md)
 
