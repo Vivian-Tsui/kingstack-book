@@ -12,7 +12,6 @@
 * [6.镜像服务](6jing-xiang-fu-wu.md)
 * [7.网络](7wang-luo.md)
 * [8.云安全](8yun-an-quan.md)
-* [Introduction](README.md)
 * [9. 管理](mm.md)
 * [10. 监控服务](10.md)
 * [11. 日志](log.md)
