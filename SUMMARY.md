@@ -1,10 +1,7 @@
 # Summary
 
 * [序](README.md)
-* [1. 概述](/overview.md#1)
-  * [1.1 金山云私有云简介](/overview.md#1-1)
-  * [1.2 主要概念](/overview.md#1-2)
-  * [1.3 账户与权限说明](/overview.md#1-3)
+* [1. 概述](/overview.md)
 * [2. 快速指南](get-started.md)
 * [3. 云主机服务](vm.md)
 * [4. 物理机服务](pm.md)
@@ -18,4 +15,5 @@
 * [12. 费用中心](fee-center.md)
 * [13. 审批](audit.md)
 * [14. 报表](data-form.md)
-* [15. 概述](overview.md)
+* [15. 概览](dashboard.md)
+
