@@ -341,7 +341,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.7.2 防火墙列表 {#7-7-2}
 
@@ -394,7 +394,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | √ | √ | √ |
 
 ### 7.8.2 安全组列表 {#7-8-2}
 
