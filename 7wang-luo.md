@@ -394,7 +394,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | -- | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.8.2 安全组列表 {#7-8-2}
 
@@ -451,7 +451,7 @@ VIP：负载均衡器的虚拟IP。
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.9.2 负载均衡相关操作 {#7-9-2}
 
@@ -484,7 +484,7 @@ VIP：负载均衡器的虚拟IP。
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.10.2 基础操作
 
@@ -528,7 +528,7 @@ VIP：负载均衡器的虚拟IP。
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.11.2 基础操作
 
