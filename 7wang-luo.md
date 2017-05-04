@@ -22,7 +22,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | -- | -- | -- | -- |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.1.2 外部网络列表 {#7-1-2}
 
@@ -79,7 +79,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 
 ### 7.2.2 网络列表 {#7-2-2}
@@ -142,7 +142,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.3.2 路由列表 {#7-3-2}
 
@@ -203,7 +203,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | -- | -- | -- | -- |
 
 ### 7.4.2 端口转发规则列表 {#7-4-2} 
 
@@ -251,7 +251,7 @@
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
 | Owner | √ | √ | √ | √ |
-| Member | √ | √ | √ | √ |
+| Member | √ | -- | -- | -- |
 
 ### 7.5.2 浮动IP列表 {#7-5-2}
 
