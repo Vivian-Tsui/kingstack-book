@@ -21,7 +21,7 @@
 | Admin | √ | √ | √ | √ |
 | Serviceadmin | √ | √ | √ | √ |
 | Maintenanceadmin | √ | √ | √ | √ |
-| Owner | √ | √ | √ | √ |
+| Owner | -- | -- | -- | -- |
 | Member | √ | √ | √ | √ |
 
 ### 7.1.2 外部网络列表 {#7-1-2}
